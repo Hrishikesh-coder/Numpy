@@ -8,3 +8,6 @@ a = np.empty((4,2),dtype=np.int16)
 
 print(a)
 
+print(np.arange(10,30,5))
+
+print(np.linspace(0,5,11))
